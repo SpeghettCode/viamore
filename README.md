@@ -1,3 +1,16 @@
+# Viamore
+
+## Description
+
+This website was created for a made up clothing brand using ReactJS as a project I did to practice my skills and knowledge.
+
+## Authors 
+
+Connor Boulton
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
